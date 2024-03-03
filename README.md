@@ -36,8 +36,4 @@ The project also requires [Tkinter](https://docs.python.org/3/library/tk.html) a
 * [MySQL](https://dev.mysql.com/doc/) - Used to store student detail.
 
 
-## Authors
 
-- [Ananta Pandey](https://github.com/ananta15)
-- [Akshat Mishra](https://github.com/akshat-20)
-- [Anshika Gupta]()
